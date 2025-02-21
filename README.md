@@ -1,6 +1,6 @@
 # Hi there, I'm Donavon Harris! 👋  
 
-🎓 **Student at Arizona State University**  
+🎓 **Student at Santa Fe College**  
 📚 Pursuing a **B.S. in Computer Science**  
 💡 Interested in **Artificial Intelligence, Web Applications, and Databases**  
 💻 Passionate about **Software Development, Programming, and Technology**  
